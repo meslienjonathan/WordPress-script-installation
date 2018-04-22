@@ -276,5 +276,3 @@ echo -e "
 \033[1;31m+ \033[0;37m       \033[1;31m  \033[1;32m- Application Server (ex.)
 \033[1;31m+++++++++++++++++++++++++++++++++++++++++++++++++++\033[0m"
 EOF
-
-echo -e "your password wordpress is $name_password"
