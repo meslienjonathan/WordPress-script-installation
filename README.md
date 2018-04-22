@@ -1,17 +1,21 @@
 # WordPress-script-installation
 Installation script for wordpress on linux debian 8.1 server<br>
 
-To start the script you have to grant the execution rights
-chmod u+x wordpress.sh<br>
-To start the script<br>
+### To start the script you have to grant the execution rights
+
+`chmod u+x wordpress.sh<br>`
+
+### To start the script<br>
+
 `./worpress.sh<br>`
 
-to force the reinstallation of all packages<br>
+### to force the reinstallation of all packages<br>
 
 `./wordpress.sh -f<br>`
 
-Global variable at the beginning of the file<br>
-`DatabasePass="test"`<br>
+### Global variable at the beginning of the file<br>
+
+`DatabasePass="test"` password of the admin database wordpress <br>
 
 `Directory="/var/www/html/index.html"` by default<br>
 
