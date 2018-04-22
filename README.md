@@ -10,10 +10,10 @@ to force the reinstallation of all packages<br>
 
 Global variable at the beginning of the file<br>
 DatabasePass="test"<br>
-Directory="/var/www/html/index.html"<br>
-admin="word"<br>
-name="wordly"<br>
-email="meslien.jonathan@gmail.com"<br>
-url="wp.mywebchef.org"<br>
-urltwo="mywebchef.org"<br>
-folder="/var/www/html/toto"<br>
+Directory="/var/www/html/index.html" by default<br>
+admin="word" name of the admin database wordpress <br>
+name="wordly" name of the database wordpress <br>
+email="meslien.jonathan@gmail.com" adress mail <br> 
+url="wp.mywebchef.org" alias domain name for development <br>
+urltwo="mywebchef.org" domain name for development <br>
+folder="/var/www/html/toto" virtualhost folder <br>
