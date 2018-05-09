@@ -3,15 +3,15 @@ Installation script for wordpress on linux debian 8.1 server<br>
 
 ### To start the script you have to grant the execution rights
 
-`chmod u+x wordpress.sh<br>`
+`chmod u+x wordpress.sh`
 
 ### To start the script<br>
 
-`./worpress.sh<br>`
+`./worpress.sh`
 
 ### to force the reinstallation of all packages<br>
 
-`./wordpress.sh -f<br>`
+`./wordpress.sh -f`
 
 ### Global variable at the beginning of the file<br>
 
